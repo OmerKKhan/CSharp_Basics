@@ -1,0 +1,6 @@
+c:\users\omer khan\documents\visual studio 2012\Projects\InterviewPrep\InterviewPrep\bin\Debug\InterviewPrep.exe.config
+c:\users\omer khan\documents\visual studio 2012\Projects\InterviewPrep\InterviewPrep\bin\Debug\InterviewPrep.exe
+c:\users\omer khan\documents\visual studio 2012\Projects\InterviewPrep\InterviewPrep\bin\Debug\InterviewPrep.pdb
+c:\users\omer khan\documents\visual studio 2012\Projects\InterviewPrep\InterviewPrep\obj\Debug\InterviewPrep.csprojResolveAssemblyReference.cache
+c:\users\omer khan\documents\visual studio 2012\Projects\InterviewPrep\InterviewPrep\obj\Debug\InterviewPrep.exe
+c:\users\omer khan\documents\visual studio 2012\Projects\InterviewPrep\InterviewPrep\obj\Debug\InterviewPrep.pdb
